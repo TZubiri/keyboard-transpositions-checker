@@ -17,7 +17,9 @@
 
 # Usage
 - 1: Download python script from releases
-- 2: 
+- 2: Run python script with any python3 version, in linux
+- 3: Type the keys "j", "h" and "g" in order, in a loop. The keys are chosen because of their central-right location in a loop, and the order is such that you can prone your wrist and hit the three keys in a single stroke. (If you are left handed I recommend switching the order of the keys in the source code, and maybe changing to "asd".
+- 4: Press q to exit.
 
 # Building
 
