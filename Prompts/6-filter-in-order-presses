@@ -1,0 +1,1 @@
+Ok, now let's add something that expects an order of jhg characters in a loop, and only prints if there's an unexpected character and shows the timings of the previous two characters
