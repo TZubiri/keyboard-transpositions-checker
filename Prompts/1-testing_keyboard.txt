@@ -1,0 +1,14 @@
+wqertyui
+qwertyui
+qwertyui
+qwetryuiqweiu
+qwretyuiqweiu
+qwertyuiqweiu
+qwertyuiqwerytiu
+
+I'm testing how my keyboard works with fast typing.  It should be sequential from left to right, I don't know if I'm making mistakes when typing or if the keyboard and OS are failing me.
+
+qweytuiqweytiu
+qwetryuiqwertyui
+
+My OS is beeping when I type too fast, is there like a limit of characters in the keyboard queue in Windows?
