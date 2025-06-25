@@ -27,8 +27,8 @@ Two methods
 
 - 1: Open the link in prompts.html and copy and paste the code as is
 - 2: Take the input prompts from either prompts.html or prompts/*.txt and run them through your LLM of choice, with any modification you wish for.
+- 3: If you wish to publish, upload your code as a binary, this is important as the "compiler" is not deterministic, source code is not replicable and not sufficient for execution in other computers.
 
-Finally, run the resulting python script.
 
 # Contributing
 
